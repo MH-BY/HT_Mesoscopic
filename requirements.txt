@@ -1,0 +1,6 @@
+botorch==0.9.2
+matplotlib==3.7.2
+mpltern==1.0.2
+numpy==1.25.2
+pandas==1.5.3
+torch==2.1.0
