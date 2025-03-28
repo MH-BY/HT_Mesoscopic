@@ -1,7 +1,7 @@
 # HT_Mesoscopic
 Data and scripts for "Machine-Learning–Driven In-Device optimization of all-printed perovskite solar cells" 
 
-## Data
+## /data
 - Data of PV performance parameters evolution from J-V characterization (batch1_param_evol.csv & batch1_param_evol.csv)
 - Perovskite composition recipe (batch1_recipe_composition.csv and batch2_recipe_composition.csv)
 - Data used in ML (data_ML_1.csv and data_ML_1_2.csv).
