@@ -1,5 +1,5 @@
 # HT_Mesoscopic
-Data and scripts for "Full-Stack Acceleration: Machine Learning Driven High-throughput Platform for Perovskite Solar Cell Devices" 
+Data and scripts for "Machine-Learning–Driven In-Device optimization of all-printed perovskite solar cells" 
 
 ## /data
 - Data of PV performance parameters evolution from J-V characterization (batch1_param_evol.csv & batch1_param_evol.csv)
